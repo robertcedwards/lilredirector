@@ -19,6 +19,7 @@
     "@cloudflare/workers-types": "^2.0.0",
     "@types/basic-auth": "^1.1.3",
     "basic-auth": "^2.0.1",
-    "tiny-request-router": "^1.2.2"
+    "tiny-request-router": "^1.2.2",
+    "wrangler": "^4.26.0"
   }
 }
